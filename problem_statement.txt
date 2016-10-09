@@ -1,0 +1,30 @@
+The pizza shop wants to sell pizza's online.
+A Pizza has the following variations:
+1)Size of the crust(small medium large)
+2)Thickness of crust(thin thick)
+3)Toppins (onion, capsicum, tomato green chilli,mushroom,sweet corn, chicken,egg)
+4)Extra cheese
+
+The costs should be computed using following chart
+
+Thin crust
+-Small  Rs 10
+-Medium Rs 20
+-Large  Rs 30
+
+Thick crust
+-Small  Rs 20
+-Medium Rs 30
+-Large  Rs 40
+
+Toppings
+-Onion        Rs 18
+-Capsicum     Rs 15
+-Tomato       Rs 10
+-Green chilli Rs 12
+-Mushroom     Rs 20
+-Sweetcorn    Rs 25
+-Chicken      Rs 50
+-Egg          Rs 40
+
+Extra cheese Rs 50
